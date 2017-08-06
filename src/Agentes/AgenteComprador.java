@@ -6,6 +6,10 @@ import jade.core.behaviours.CyclicBehaviour;
 import jade.core.behaviours.OneShotBehaviour;
 import jade.lang.acl.ACLMessage;
 
+/**
+ * @author mauro
+ *
+ */
 public class AgenteComprador extends Agent {
 	
 	private static int valor = 0;
