@@ -7,6 +7,7 @@ import jade.core.behaviours.OneShotBehaviour;
 import jade.lang.acl.ACLMessage;
 
 public class AgenteComprador extends Agent {
+	
 	private static int valor = 0;
 	private static String nome;
 	private static Boolean isVender = Boolean.FALSE;
