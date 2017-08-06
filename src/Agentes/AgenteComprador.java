@@ -8,6 +8,8 @@ import jade.lang.acl.ACLMessage;
 
 /**
  * @author mauro
+ * 
+ * realizacao de teste com o guit mauro
  *
  */
 public class AgenteComprador extends Agent {
